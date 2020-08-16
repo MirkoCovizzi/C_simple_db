@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
-project(study C)
+project(C_simple_db C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(study main.c)
+add_executable(C_simple_db main.c)
